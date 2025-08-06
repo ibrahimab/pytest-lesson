@@ -2,6 +2,7 @@
 name = "bankaccount"
 version = "0.0.1"
 dependencies = ["pytest"]
+requires-python = ">=3.10"
 
 [tool.pytest.ini_options]
 pythonpath = ["."]
